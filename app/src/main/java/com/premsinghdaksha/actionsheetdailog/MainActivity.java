@@ -47,15 +47,23 @@ public class MainActivity extends AppCompatActivity {
                             break;
                         case 1:
                             // your action
+                            setLog(data);
+
                             break;
                         case 2:
                             // your action
+                            setLog(data);
+
                             break;
                         case 3:
                             // your action
+                            setLog(data);
+
                             break;
                         case 4:
                             // your action
+                            setLog(data);
+
                             break;
                     }
                 }));
