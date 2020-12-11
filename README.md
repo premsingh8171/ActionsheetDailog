@@ -22,7 +22,8 @@ allprojects {
  
 ```gradle
 dependencies {
-	implementation 'com.github.khoyron:Actionsheet-android:4'
+      
+      implementation 'com.github.premsingh8171:ActionsheetDailog:1.0.0'
 }
 ```
 
