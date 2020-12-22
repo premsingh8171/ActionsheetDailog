@@ -5,7 +5,7 @@
 
 ActionsheetDailog-android is an Android Library to build Actionsheet like iOS UIActionSheet component, iOS7 style, custom color etc.
 
-<img src="https://raw.githubusercontent.com/premsingh8171/ActionsheetDailog/master/app/src/main/res/drawable/action1.jpeg" width="300" height="550" /><img src="https://raw.githubusercontent.com/premsingh8171/ActionsheetDailog/master/app/src/main/res/drawable/action2.jpeg" width="300" height="550" />
+<img src="https://raw.githubusercontent.com/premsingh8171/ActionsheetDailog/master/app/src/main/res/drawable/action1.jpeg" width="300" height="550" /> <img src="https://raw.githubusercontent.com/premsingh8171/ActionsheetDailog/master/app/src/main/res/drawable/action2.jpeg" width="300" height="550" />
 
 ## Installation
 
