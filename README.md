@@ -12,18 +12,20 @@ ActionsheetDailog-android is an Android Library to build Actionsheet like iOS UI
 -  Add the following to your project level `build.gradle`:
  
 ```gradle
-allprojects {
-	repositories {
-		maven { url 'https://jitpack.io' }
+dependencyResolutionManagement {
+		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+		repositories {
+			mavenCentral()
+			maven { url 'https://jitpack.io' }
+		}
 	}
-}
 ```
   -  Add this to your app `build.gradle`:
  
 ```gradle
 dependencies {
       
-      implementation 'com.github.premsingh8171:ActionsheetDailog:1.0.0'
+      implementation 'com.github.premsingh8171:ActionsheetDailog:2.0.0'
 }
 ```
 
