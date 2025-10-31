@@ -5,7 +5,7 @@ plugins {
 
 android {
     compileSdkVersion 36
-    buildToolsVersion "30.0.2"
+    buildToolsVersion "35.0.0"
 
     defaultConfig {
         namespace "com.premsinghdaksha.actionsheetdailog"

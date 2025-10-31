@@ -1,15 +1,15 @@
 plugins {
     id 'com.android.library'
     id 'maven-publish'
+    id 'org.jetbrains.kotlin.android'
 }
-
 afterEvaluate {
     publishing {
         publications {
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.github.premsingh8171'
-                artifactId = 'StartActivityAnimationLibrary'
+                artifactId = 'ActionsheetDailog'
                 version = '2.0.0'
             }
         }
